@@ -1,0 +1,6 @@
+find
+.
+-size
++3M
+.
+-size
